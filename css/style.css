@@ -1,0 +1,36 @@
+
+.background1{
+    background-color: rgba(236, 201, 0, 0.466);
+    border-left: 2px solid black;
+    margin-top: 5em;
+    padding: 25px;
+}
+
+.relative1 {
+    position: relative;
+    font-weight: bold;
+    background-color: yellow;
+    border: 3px solid yellow;
+    width: 500px;
+}
+
+
+.absolute1 {
+    position: absolute;
+    background-color: green;
+    color: white;
+    left: -4px;
+    border: 3px solid green;
+}
+.fixed1 {
+    position: fixed;
+    border: 3px solid rgb(255, 16, 16);
+    letter-spacing: 15px;
+    top: 21em;
+left: 2em;
+width: 500px;
+}
+
+.bottomtext{
+    margin-top: 5em;
+}
